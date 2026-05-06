@@ -46,6 +46,4 @@ Projetos desenvolvidos durante meu processo de aprendizado:
 Demonstrar minha evolução prática como desenvolvedor, destacando o processo de aprendizado e construção de conhecimento ao longo do tempo.
 
 
-## 🚧 Em andamento
-
 Este repositório continuará sendo atualizado conforme novos projetos forem desenvolvidos.
