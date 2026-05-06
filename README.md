@@ -1,32 +1,51 @@
-# 🚀 Minha Jornada na Programação
+# 🚀 Dev Journey
 
-Este repositório documenta minha evolução como desenvolvedor desde 2023, quando tive meu primeiro contato com programação na ETEC.
+Este repositório documenta minha evolução como desenvolvedor ao longo de 2025, reunindo projetos desenvolvidos durante meus estudos e práticas.
 
 ---
 
-## 📅 Linha do tempo
+## 📖 Sobre
 
-### 🟢 2023 - Início na programação (ETEC)
-- Primeiro contato com lógica de programação
-- Introdução ao HTML e CSS
-- Projetos simples e fundamentos
+Aqui estão organizados projetos que representam diferentes etapas do meu aprendizado, desde os primeiros contatos com programação até experimentos com tecnologias mais avançadas.
 
-### 🔵 2024 - Evolução
-- Aprimoramento em JavaScript
-- Introdução a banco de dados (SQL)
-- Melhor organização de código
+O objetivo não é mostrar apenas projetos perfeitos, mas sim a minha evolução real ao longo do tempo.
 
-### 🟣 2025 - Consolidação
-- Foco em backend
-- Desenvolvimento de APIs
-- Projetos mais estruturados
+---
+
+## 📅 Estrutura
+
+### 📂 2025
+
+Projetos desenvolvidos durante meu processo de aprendizado:
+
+- 🟢 Projetos iniciais  
+  - Primeiros contatos com PHP  
+  - Lógica básica e formulários  
+
+- 🔵 Evolução  
+  - Melhor entendimento de backend  
+  - Organização de código  
+
+- 🟣 Tecnologias novas  
+  - Uso de Docker  
+  - Execução de aplicações em ambiente isolado  
+
+---
+
+## 🧠 O que você vai encontrar aqui
+
+- Projetos simples e iniciais  
+- Testes com novas tecnologias  
+- Experimentos de aprendizado  
+- Evolução progressiva no desenvolvimento  
 
 ---
 
 ## 🎯 Objetivo
-Mostrar minha evolução contínua como desenvolvedor, destacando aprendizados, erros e melhorias ao longo do tempo.
 
----
+Demonstrar minha evolução prática como desenvolvedor, destacando o processo de aprendizado e construção de conhecimento ao longo do tempo.
 
-## ⚠️ Observação
-Alguns projetos não seguem boas práticas atuais, pois refletem meu nível de conhecimento na época em que foram desenvolvidos.
+
+## 🚧 Em andamento
+
+Este repositório continuará sendo atualizado conforme novos projetos forem desenvolvidos.
